@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="https://avatars.githubusercontent.com/u/92626638?s=400&u=7fc67b7b5f4b21f11e29c3e9d53ffa69ed2b5c11&v=4" className="App-logo" alt="logo" />
         <p>
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
