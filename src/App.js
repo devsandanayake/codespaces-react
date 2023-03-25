@@ -30,15 +30,7 @@ function App() {
          <p>
         
          <i className='small'>Undergraduate Full-Stack Developer based in Sri Lanka 
-          </i><br/>
-                  <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          </i>                  
         </p>
       </header>
     </div>
